@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ciclo de vida de las actividades</string>
+    <string name="email">Correo</string>
+    <string name="get_test">Obtener Texto</string>
+    <string name="set_text">Establecer Texto</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="go_to_2">Ir a la actividad 2</string>
+    <string name="name">Nombre</string>
+</resources>
